@@ -1,2 +1,2 @@
-# nodejs-express-mongodb-main
-RIMAC Health Indicator API
+# nodejs-express-mongodb
+My first CRUD API Rest with nodejs, express and mongodb
